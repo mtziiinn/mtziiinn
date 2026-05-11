@@ -10,7 +10,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Sou o **Matheus**, desenvolvedor **Fullstack** apaixonado por construir soluções completas — do banco de dados à interface. Gosto de criar coisas que funcionam bem por dentro e parecem ótimas por fora.
+Olá! Sou o **Matheus**, desenvolvedor **Back-end** apaixonado por construir soluções completas — do banco de dados à interface. Gosto de criar coisas que funcionam bem por dentro e parecem ótimas por fora.
 
 - 🔭 Sempre explorando novas tecnologias e projetos
 - 🌱 Em constante aprendizado
@@ -34,13 +34,20 @@ Olá! Sou o **Matheus**, desenvolvedor **Fullstack** apaixonado por construir so
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 **Banco de Dados**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -48,7 +55,6 @@ Olá! Sou o **Matheus**, desenvolvedor **Fullstack** apaixonado por construir so
 
 <div>
 
-[![Instagram](https://img.shields.io/badge/@tteuww._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tteuww._)
 [![Gmail](https://img.shields.io/badge/matheusgoncalves1502@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgoncalves1502@gmail.com)
 
 </div>

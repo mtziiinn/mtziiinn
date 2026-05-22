@@ -75,13 +75,11 @@ Trabalho com o ciclo completo de uma aplicação, mas é na **arquitetura de sis
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Atividade
 
 <div align="center">
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mtziiinn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mtziiinn&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mtziiinn&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 

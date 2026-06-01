@@ -26,8 +26,8 @@ De São Paulo - SP, atualmente cursando o 2º semestre de **Análise e Desenvolv
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtziiinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtziiinn&layout=compact&theme=dark&langs_count=6" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mtziiinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mtziiinn&layout=compact&theme=dark&langs_count=6" />
 </p>
 
 ---

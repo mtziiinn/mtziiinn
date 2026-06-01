@@ -34,4 +34,4 @@ De São Paulo - SP, atualmente cursando o 2º semestre de **Análise e Desenvolv
 
 ### 📬 Vamos nos conectar?
 - 💼 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
-- ✉️ SeuEmailProfissional@email.com
+- ✉️ matheusgoncalves1502@gmail.com

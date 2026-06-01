@@ -1,92 +1,37 @@
-<div align="center">
+# Olá, eu sou o Matheus Gonçalves! 👋
 
-# Matheus Gonçalves
-
-**Back-end Developer · Node.js · TypeScript · PostgreSQL**
-
-Building robust APIs, scalable systems & smart automations since 2020 🇧🇷
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mts7.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mts7.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus_Gonçalves-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gonçalves-dev)
-[![Gmail](https://img.shields.io/badge/Email-matheusgoncalves1502-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusgoncalves1502@gmail.com)
-
-</div>
+De São Paulo - SP, atualmente cursando o 2º semestre de **Análise e Desenvolvimento de Sistemas (ADS)**. Sou apaixonado por tecnologia, arquitetura de software e por transformar linhas de código em soluções eficientes no ecossistema Backend.
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Desenvolvedor **Full Stack com foco em Back-end**, apaixonado por construir sistemas que funcionam bem por dentro — não só por fora.
-
-Com trajetória iniciada em 2020, me especializei em:
-
-- 🔗 **APIs RESTful** de alta disponibilidade com Node.js e TypeScript
-- 🔐 **Sistemas de autenticação** seguros e escaláveis
-- ⚙️ **Automações** e integrações entre serviços
-- 🗄️ **Modelagem de dados** com SQL (PostgreSQL, MySQL) e NoSQL (MongoDB)
-
-Trabalho com o ciclo completo de uma aplicação, mas é na **arquitetura de sistemas e na lógica de negócio** onde entrego meu maior valor técnico.
+### 💻 Sobre Mim
+- 🚀 Focado em desenvolvimento Backend escalável utilizando **TypeScript** e **Node.js**.
+- 🛠️ Ampla experiência no ecossistema de bots para Discord (**Discord.js v14**, arquiteturas modernas de comandos, automações, sistemas de tickets e logs).
+- 💾 Experiência prática com bancos de dados NoSQL (**MongoDB**) e infraestrutura em nuvem (**Square Cloud**).
+- 📚 Sempre buscando aprender novas tecnologias, boas práticas de mercado e padrões de arquitetura de software.
 
 ---
 
-## 🛠️ Stack Principal
+### 🛠️ Tecnologias & Ferramentas
 
-**Back-end & Runtime**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-**Front-end**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Banco de Dados & ORM**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-**DevOps & Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Runtime** | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) |
+| **Frameworks & Bibliotecas** | ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Banco de Dados & Nuvem** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Square Cloud](https://img.shields.io/badge/Square%20Cloud-0052FF?style=flat-square) |
+| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-## 🚀 Projetos em Destaque
+### 📊 Estatísticas do GitHub
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [**📋 Sistema de Tickets**](https://github.com/mtziiinn/ticket) | Sistema de gerenciamento de chamados e suporte com persistência de dados | TypeScript · Node.js · MongoDB |
-| [**💈 Barber Landing Page**](https://github.com/mtziiinn/barber-landing) | Landing page para barbearias com integração de pagamentos via Mercado Pago | TypeScript · Supabase · Mercado Pago |
-| [**☁️ SaaS Platform**](https://github.com/mtziiinn/SAAS) | Plataforma SaaS com gerenciamento de dados e funcionalidades modernas | TypeScript · Next.js · Drizzle ORM |
-| [**🌐 Portfolio**](https://github.com/mtziiinn/portfolio) | Este portfólio — Next.js 15, Tailwind, Framer Motion, foco em SEO e performance | Next.js · Tailwind · TypeScript |
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mtziiinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtziiinn&layout=compact&theme=dark&langs_count=6" />
+</p>
 
 ---
 
-## 🔥 Atividade
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mtziiinn&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-<div align="center">
-
-*"Código limpo não é escrito por acaso — é resultado de dedicação."*
-
-</div>
+### 📬 Vamos nos conectar?
+- 💼 [LinkedIn](https://linkedin.com/in/SEU_LINKEDIN_AQUI)
+- ✉️ SeuEmailProfissional@email.com
